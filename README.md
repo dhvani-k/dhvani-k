@@ -11,29 +11,31 @@
   </a>
 </div>
 
-<h1 align="center"> 👩‍💻 Dhvani Kothari: Data Engineer | Cloud Specialist | Solutions Architect</h1>
-<h3 align="center">Harnessing the power of modern computing architectures and cloud platforms, I specialize in designing and implementing scalable data solutions. With a rich experience spanning across data engineering, cloud technologies, and big data ecosystems, I'm dedicated to optimizing data workflows and driving efficiency in complex systems.</h3>
+<h1 align="center"> 👩‍💻 Dhvani Kothari: GenAI Enthusiast | ML Solutions Engineer | Data Engineer | Cloud Specialist | </h1>
+<h3 align="center">Bridging the gap between cutting-edge generative AI and real-world applications—crafting scalable ML solutions that turn creative potential into production reality./h3>
+
+🚀 **Professional Experience**:
+- **ML Solutions Architect** at [Brainchip Inc.](https://brainchip.com/): Optimizing generative AI systems end-to-end—from fine-tuning LLMs and building RAG pipelines to deploying multimodal voice solutions and guiding global clients through custom GenAI implementations.
+- **ML Solutions Architect Intern** at [Brainchip Inc.](https://brainchip.com/): Developed FastAPI web-based GUI tools, streamlined integrated circuit scaling, and automated unit testing with Pytest and Drone.
+- **Data Engineer** at [Walmart Global Tech](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Led ETL mappings on GCP, optimized PySpark pipelines, and spearheaded data migration projects.
+- **Big Data Developer** at [Capgemini](https://www.capgemini.com/): Optimized Spark applications, designed data lakes, and pioneered automation using Azure Logic Functions and Azure Data Factory.
+
 
 🎓 **Education**: 
 - **MS in Computer Science & Engineering** from [University at Buffalo, The State University of New York](https://www.buffalo.edu/). Specialized in Data Intensive Computing, Algorithms for Modern Computing Systems, and Machine Learning.
 - **BE in Computer Technology** from [Yeshwantrao Chavan College of Engineering](https://www.ycce.edu/).
 
-🚀 **Professional Experience**:
-- **Solutions Architect Intern** at [Brainchip Inc.](https://brainchip.com/): Developed FastAPI web-based GUI tools, streamlined integrated circuit scaling, and automated unit testing with Pytest and Drone.
-- **Data Engineer** at [Walmart Global Tech](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Led ETL mappings on GCP, optimized PySpark pipelines, and spearheaded data migration projects.
-- **Big Data Developer** at [Capgemini](https://www.capgemini.com/): Optimized Spark applications, designed data lakes, and pioneered automation using Azure Logic Functions and Azure Data Factory.
+
 
 🔧 **Technical Stack**: 
-- **Languages**: Python, SQL, Java, Scala, C++, R, Bash
-- **Big Data**: Apache Kafka, Apache Hadoop, MapReduce, Databricks, ElasticSearch
-- **Cloud Platforms**: GCP, AWS, Azure
-- **DevOps**: Docker, Kubernetes, Jenkins
-- **Databases**: SQL Server, Oracle, MySQL, MongoDB, Cassandra, HBase
+- **Programming Languages**: Python, SQL, JavaScript, C/C++
+- **AI/ML Frameworks**: PyTorch, HuggingFace, TensorFlow, Scikit-learn, FastAPI
+- **GenAI & ML Techniques**: LLMs, RAG, Fine-tuning (LoRA/QLoRA), Transformers, Vector Databases, Prompt Engineering, CNN/RNN
+- **MLOps & Deployment**: Docker, MLflow, AWS Bedrock, Azure ML, CI/CD, Model Registry
+- **Data & Cloud Platforms**: AWS (S3, Lambda), GCP, Azure, Apache Spark, Kafka
+- **Orchestration**: LangChain, LlamaIndex, Kubernetes
 
-
-** Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="https://github.com/dhvani-k/Resume/blob/main/Dhvani_Kothari_DE_Resume.pdf" target="_blank">Resume</a>
-
-🌱 **Currently Exploring**: Sustainable and Efficient AI, Serverless Deployments, and Deep Learning.
+🌱 **Currently Exploring**: Sustainable and Responsible AI, Agentic Systems
 
 **Connect with me:**
 <p align="left">
