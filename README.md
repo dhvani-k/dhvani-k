@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center"> 👩‍💻 Dhvani Kothari: GenAI Enthusiast | ML Solutions Engineer | Data Engineer | Cloud Specialist | </h1>
-<h3 align="center">Bridging the gap between cutting-edge generative AI and real-world applications—crafting scalable ML solutions that turn creative potential into production reality./h3>
+<h3 align="center">Bridging the gap between cutting-edge generative AI and real-world applications—crafting scalable ML solutions that turn creative potential into production reality.</h3>
 
 🚀 **Professional Experience**:
 - **ML Solutions Architect** at [Brainchip Inc.](https://brainchip.com/): Optimizing generative AI systems end-to-end—from fine-tuning LLMs and building RAG pipelines to deploying multimodal voice solutions and guiding global clients through custom GenAI implementations.
