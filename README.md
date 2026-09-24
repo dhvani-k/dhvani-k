@@ -1,5 +1,5 @@
 <h1 align="center">Dhvani Kothari</h1>
-<p align="center">AI Solutions Architect / Forward Deployed Engineer</p>
+<h1 align="center"> AI Solutions Architect | Forward Deployed Engineer | Applied AI Field Engineer </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhvanik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
