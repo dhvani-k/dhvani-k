@@ -29,7 +29,7 @@ Customer problem → Discovery → Architecture → Prototype → Data → AI �
 
 | | |
 |---|---|
-| **AI / GenAI** | LLMs, RAG, AI agents and agentic workflows, prompt engineering, LLM evaluation, Claude, OpenAI, Glean / Glean Agents, Cursor |
+| **AI / GenAI** | LLMs, RAG, AI agents and agentic workflows, prompt engineering, LLM evaluation, MCP, Claude, OpenAI, CrewAI, Cursor |
 | **Data** | Python, SQL, ETL / ELT, data pipelines, data migration and transformation, data validation and quality, large-scale data processing, relational databases |
 | **Cloud** | AWS, Azure, cloud architecture, data lakes, APIs, system integration, enterprise architecture, on-prem to cloud migration |
 | **Solutions work** | Solution architecture, technical discovery, requirements gathering, proofs of concept, enterprise deployments, troubleshooting, customer adoption, working across engineering, product, and customer teams |
