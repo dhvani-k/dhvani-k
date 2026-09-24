@@ -1,55 +1,52 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/57nf4oyyMmZ2L9QqJN/giphy.gif" width="200"/>
-</div>
+<h1 align="center">Dhvani Kothari</h1>
+<p align="center">AI Solutions Architect / Forward Deployed Engineer</p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dhvani-kothari/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="dhvanikothari03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-
-<h1 align="center"> 👩‍💻 Dhvani Kothari: GenAI Enthusiast | ML Solutions Engineer | Data Engineer | Cloud Specialist | </h1>
-<h3 align="center">Bridging the gap between cutting-edge generative AI and real-world applications—crafting scalable ML solutions that turn creative potential into production reality.</h3>
-
-🚀 **Professional Experience**:
-- **ML Solutions Architect** at [Brainchip Inc.](https://brainchip.com/): Optimizing generative AI systems end-to-end—from fine-tuning LLMs and building RAG pipelines to deploying multimodal voice solutions and guiding global clients through custom GenAI implementations.
-- **ML Solutions Architect Intern** at [Brainchip Inc.](https://brainchip.com/): Developed FastAPI web-based GUI tools, streamlined integrated circuit scaling, and automated unit testing with Pytest and Drone.
-- **Data Engineer** at [Walmart Global Tech](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Led ETL mappings on GCP, optimized PySpark pipelines, and spearheaded data migration projects.
-- **Big Data Developer** at [Capgemini](https://www.capgemini.com/): Optimized Spark applications, designed data lakes, and pioneered automation using Azure Logic Functions and Azure Data Factory.
-
-
-🎓 **Education**: 
-- **MS in Computer Science & Engineering** from [University at Buffalo, The State University of New York](https://www.buffalo.edu/). Specialized in Data Intensive Computing, Algorithms for Modern Computing Systems, and Machine Learning.
-- **BE in Computer Technology** from [Yeshwantrao Chavan College of Engineering](https://www.ycce.edu/).
-
-
-
-🔧 **Technical Stack**: 
-- **Programming Languages**: Python, SQL, JavaScript, C/C++
-- **AI/ML Frameworks**: PyTorch, HuggingFace, TensorFlow, Scikit-learn, FastAPI
-- **GenAI & ML Techniques**: LLMs, RAG, Fine-tuning (LoRA/QLoRA), Transformers, Vector Databases, Prompt Engineering, CNN/RNN
-- **MLOps & Deployment**: Docker, MLflow, AWS Bedrock, Azure ML, CI/CD, Model Registry
-- **Data & Cloud Platforms**: AWS (S3, Lambda), GCP, Azure, Apache Spark, Kafka
-- **Orchestration**: LangChain, LlamaIndex, Kubernetes
-
-🌱 **Currently Exploring**: Sustainable and Responsible AI, Agentic Systems
-
-**Connect with me:**
-<p align="left">
-<a href="https://linkedin.com/in/dhvanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhvanik/" height="30" width="40" /></a>
-<a href="https://kaggle.com/dhvani.kothari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhvani.kothari_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kotharidk03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kotharidk03" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhvanikothari03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhvanikothari03" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhvanik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dhvanikothari03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+I work with enterprise customers to get AI systems into production. Most projects start with a loosely defined business problem and a lot of existing infrastructure. My job is to figure out what should actually be built, build it, connect it to the customer's data and systems, and stay involved until their team is using it day to day.
 
-👇 Check out my repositories to see my hands-on projects and contributions!
+I came into this from data engineering, so I spend more time than most on the data and integration side of AI projects. In my experience that's where things usually break.
 
+```
+Customer problem → Discovery → Architecture → Prototype → Data → AI → Integration → Production → Adoption
+```
+
+## What I work on
+
+- Technical discovery with customers: understanding the problem, the data they have, their constraints, and what "working" means to them
+- Architecture and solution design for AI systems that need to fit into an existing enterprise environment
+- Prototypes and proofs of concept, and turning the ones that work into production deployments
+- RAG systems, LLM applications, and agent workflows, mostly on Claude and OpenAI models
+- Prompt engineering and evaluation. I build eval sets from real usage so prompt and model changes don't quietly break things
+- Data pipelines, migrations, and validation to get customer data into a usable state
+- Integrations with the APIs and systems customers already run
+- Troubleshooting across the stack when something in production isn't behaving
+
+## Stack
+
+| | |
+|---|---|
+| **AI / GenAI** | LLMs, RAG, AI agents and agentic workflows, prompt engineering, LLM evaluation, Claude, OpenAI, Glean / Glean Agents, Cursor |
+| **Data** | Python, SQL, ETL / ELT, data pipelines, data migration and transformation, data validation and quality, large-scale data processing, relational databases |
+| **Cloud** | AWS, Azure, cloud architecture, data lakes, APIs, system integration, enterprise architecture, on-prem to cloud migration |
+| **Solutions work** | Solution architecture, technical discovery, requirements gathering, proofs of concept, enterprise deployments, troubleshooting, customer adoption, working across engineering, product, and customer teams |
+
+## Background
+
+Before moving into AI solutions work I was a data engineer at Walmart Global Tech (ETL on GCP, PySpark pipelines, data migration) and at Capgemini (Spark, data lakes, Azure Data Factory automation). At BrainChip I was an ML Solutions Architect working on LLM fine-tuning, RAG pipelines, and voice solutions for customers. MS in Computer Science and Engineering from the University at Buffalo.
+
+## Projects
+
+I'm in the process of putting some of my own work up here. Nothing worth pointing at yet.
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/dhvanik](https://www.linkedin.com/in/dhvanik/)
+- Email: [dhvanikothari03@gmail.com](mailto:dhvanikothari03@gmail.com)
 
 <!---
 dhvani-k/dhvani-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
